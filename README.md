@@ -8,6 +8,7 @@ Threema: https://threema.id/5M9ZVC25
 Matrix: https://matrix.to/#/@th0mms3n:matrix.org
 
 Mastodon:<a rel="me" href="https://zeroes.ca/@Th0mms3n">Mastodon</a>
+https://zeroes.ca/@Th0mms3n
 
 <!---
 Th0mms3n/Th0mms3n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
